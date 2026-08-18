@@ -51,7 +51,7 @@ dernul-moderator-bot-main/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PlazmoCraft/dernul-moderator-bot-v2/
    cd dernul-moderator-bot-main
    ```
 
